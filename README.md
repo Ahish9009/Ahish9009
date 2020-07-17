@@ -8,4 +8,4 @@ Hi! I am Ahish, a junior at IIIT-Hyderabad pursuing B.Tech (Hons.) in ECE. I am 
 </p>
 </html>
   
-[![HitCount](http://hits.dwyl.com/Ahish9009/Ahish9009.svg)](http://hits.dwyl.com/Ahish9009/Ahish9009)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhish9009%2FAhish9009)
